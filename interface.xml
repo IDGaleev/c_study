@@ -1,0 +1,9 @@
+<interface>
+    <heading>Мой защищённый интерфейс</heading>
+    <paragraph>Этот интерфейс сгенерирован из XML.</paragraph>
+    <paragraph>Все данные экранируются, теги — из белого списка.</paragraph>
+    <input name="username" type="text" />
+    <input name="password" type="password" />
+    <button id="btn1" label="Войти" />
+    <button id="btn2" label="Отмена" />
+</interface>
